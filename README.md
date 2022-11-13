@@ -1,4 +1,3 @@
-# crg-live
 <p align="center">
   <img src="https://raw.githubusercontent.com/rhyme-qing/picture-bed/main/outher/202211131343450.png" width="200">
   <h2 align="center">CRG-live 竞技转播系统</h2>
